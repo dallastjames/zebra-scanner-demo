@@ -1,0 +1,7 @@
+{
+  "name": "zebra-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
